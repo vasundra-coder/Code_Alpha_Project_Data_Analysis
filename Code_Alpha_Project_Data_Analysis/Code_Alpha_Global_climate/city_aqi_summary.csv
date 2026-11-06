@@ -1,0 +1,9 @@
+City,Average_AQI,Peak_AQI,Minimum_AQI,Observations
+Bengaluru,83.96,210.0,25.0,1096
+Pune,92.34,195.0,25.0,1096
+Chennai,99.78,202.0,25.0,1096
+Mumbai,106.15,224.0,25.0,1096
+Hyderabad,119.49,214.0,25.0,1096
+Ahmedabad,145.89,239.0,25.0,1096
+Kolkata,165.64,270.0,68.0,1096
+Delhi,207.89,312.0,105.0,1096
