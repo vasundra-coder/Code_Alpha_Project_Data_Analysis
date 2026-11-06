@@ -1,0 +1,31 @@
+MENTAL HEALTH AND LIFESTYLE ANALYSIS
+==================================================
+
+Total records: 374
+Average sleep duration: 7.13 hours
+Average sleep quality: 7.31
+Average stress level: 5.39
+
+Hypothesis tests
+Sleep duration vs quality: r=0.883, p=0.00000
+Stress level vs quality: r=-0.899, p=0.00000
+Sleep quality (recorded disorder vs no recorded disorder): t=-5.988, p=0.00000
+
+Highest average sleep duration occupation: Engineer
+Most common sleep-disorder category: No recorded disorder
+Strongest numerical correlation: Quality of Sleep and Stress Level (-0.899)
+
+Occupation analysis
+                      Average Sleep Duration  Average Sleep Quality  Average Stress Level  Average Daily Steps
+Occupation                                                                                                    
+Engineer                                7.99                   8.41                  3.89              5980.95
+Lawyer                                  7.41                   7.89                  5.06              7661.70
+Accountant                              7.11                   7.89                  4.59              6881.08
+Nurse                                   7.06                   7.37                  5.55              8057.53
+Doctor                                  6.97                   6.65                  6.73              6808.45
+Manager                                 6.90                   7.00                  5.00              5500.00
+Software Engineer                       6.75                   6.50                  6.00              5800.00
+Teacher                                 6.69                   6.98                  4.53              5957.50
+Salesperson                             6.40                   6.00                  7.00              6000.00
+Scientist                               6.00                   5.00                  7.00              5350.00
+Sales Representative                    5.90                   4.00                  8.00              3000.00

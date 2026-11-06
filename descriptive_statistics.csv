@@ -1,0 +1,6 @@
+,mean,median,min,max,std
+Sleep Duration,7.13,7.2,5.8,8.5,0.8
+Quality of Sleep,7.31,7.0,4.0,9.0,1.2
+Stress Level,5.39,5.0,3.0,8.0,1.77
+Physical Activity Level,59.17,60.0,30.0,90.0,20.83
+Daily Steps,6816.84,7000.0,3000.0,10000.0,1617.92

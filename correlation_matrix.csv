@@ -1,0 +1,8 @@
+,Age,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,Heart Rate,Daily Steps
+Age,1.0,0.345,0.474,0.179,-0.422,-0.226,0.058
+Sleep Duration,0.345,1.0,0.883,0.212,-0.811,-0.516,-0.04
+Quality of Sleep,0.474,0.883,1.0,0.193,-0.899,-0.66,0.017
+Physical Activity Level,0.179,0.212,0.193,1.0,-0.034,0.137,0.773
+Stress Level,-0.422,-0.811,-0.899,-0.034,1.0,0.67,0.187
+Heart Rate,-0.226,-0.516,-0.66,0.137,0.67,1.0,-0.03
+Daily Steps,0.058,-0.04,0.017,0.773,0.187,-0.03,1.0
