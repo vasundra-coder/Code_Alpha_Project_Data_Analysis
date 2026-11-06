@@ -1,0 +1,13 @@
+Entity,Tweet Text,Sentiment,VADER_Sentiment,ML_Prediction
+Microsoft,The software is available for Windows users in the latest review,Neutral,Neutral,Neutral
+Microsoft,I hate the confusing interface and constant errors,Negative,Negative,Negative
+Nvidia,The graphics performance is amazing for developers,Positive,Positive,Positive
+Nvidia,The hardware price is too high and support is poor according to users,Negative,Negative,Negative
+Tesla,Innovation in autonomous systems looks promising in the latest review,Positive,Positive,Positive
+Google,The event starts at ten o clock tomorrow according to users,Neutral,Neutral,Neutral
+Tesla,The team published a technical documentation page in the latest review,Neutral,Neutral,Neutral
+OpenAI,The company announced a model update today in the latest review,Neutral,Neutral,Neutral
+Google,Privacy concerns make this product frustrating,Negative,Negative,Negative
+Nvidia,The graphics performance is amazing for developers in the latest review,Positive,Positive,Positive
+Microsoft,The new cloud features are excellent and reliable in the latest review,Positive,Positive,Positive
+Tesla,This release has serious bugs and unreliable results,Negative,Negative,Negative

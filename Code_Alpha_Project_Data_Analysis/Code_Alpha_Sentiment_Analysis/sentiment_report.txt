@@ -1,0 +1,22 @@
+SOCIAL MEDIA SENTIMENT ANALYSIS REPORT
+
+Dataset source: built-in demonstration data (add Kaggle CSV files for full analysis)
+Records analysed: 45
+
+LOGISTIC REGRESSION METRICS
+Accuracy: 1.000
+Precision: 1.000
+Recall: 1.000
+F1 Score: 1.000
+VADER Test Accuracy: 1.000
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00         4
+     Neutral       1.00      1.00      1.00         4
+    Positive       1.00      1.00      1.00         4
+
+    accuracy                           1.00        12
+   macro avg       1.00      1.00      1.00        12
+weighted avg       1.00      1.00      1.00        12

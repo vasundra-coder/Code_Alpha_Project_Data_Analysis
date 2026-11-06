@@ -1,0 +1,46 @@
+Entity,Sentiment,Tweet Text,Clean_Text,VADER_Sentiment
+OpenAI,Positive,AI tools make my work faster and more creative,ai tools make my work faster and more creative,Positive
+OpenAI,Positive,AI tools make my work faster and more creative according to users,ai tools make my work faster and more creative according to users,Positive
+OpenAI,Positive,AI tools make my work faster and more creative in the latest review,ai tools make my work faster and more creative in the latest review,Positive
+Microsoft,Positive,The new cloud features are excellent and reliable,the new cloud features are excellent and reliable,Positive
+Microsoft,Positive,The new cloud features are excellent and reliable according to users,the new cloud features are excellent and reliable according to users,Positive
+Microsoft,Positive,The new cloud features are excellent and reliable in the latest review,the new cloud features are excellent and reliable in the latest review,Positive
+Google,Positive,This technology update is useful and impressive,this technology update is useful and impressive,Positive
+Google,Positive,This technology update is useful and impressive according to users,this technology update is useful and impressive according to users,Positive
+Google,Positive,This technology update is useful and impressive in the latest review,this technology update is useful and impressive in the latest review,Positive
+Nvidia,Positive,The graphics performance is amazing for developers,the graphics performance is amazing for developers,Positive
+Nvidia,Positive,The graphics performance is amazing for developers according to users,the graphics performance is amazing for developers according to users,Positive
+Nvidia,Positive,The graphics performance is amazing for developers in the latest review,the graphics performance is amazing for developers in the latest review,Positive
+Tesla,Positive,Innovation in autonomous systems looks promising,innovation in autonomous systems looks promising,Positive
+Tesla,Positive,Innovation in autonomous systems looks promising according to users,innovation in autonomous systems looks promising according to users,Positive
+Tesla,Positive,Innovation in autonomous systems looks promising in the latest review,innovation in autonomous systems looks promising in the latest review,Positive
+OpenAI,Negative,The service is slow and the latest update is disappointing,the service is slow and the latest update is disappointing,Negative
+OpenAI,Negative,The service is slow and the latest update is disappointing according to users,the service is slow and the latest update is disappointing according to users,Negative
+OpenAI,Negative,The service is slow and the latest update is disappointing in the latest review,the service is slow and the latest update is disappointing in the latest review,Negative
+Microsoft,Negative,I hate the confusing interface and constant errors,i hate the confusing interface and constant errors,Negative
+Microsoft,Negative,I hate the confusing interface and constant errors according to users,i hate the confusing interface and constant errors according to users,Negative
+Microsoft,Negative,I hate the confusing interface and constant errors in the latest review,i hate the confusing interface and constant errors in the latest review,Negative
+Google,Negative,Privacy concerns make this product frustrating,privacy concerns make this product frustrating,Negative
+Google,Negative,Privacy concerns make this product frustrating according to users,privacy concerns make this product frustrating according to users,Negative
+Google,Negative,Privacy concerns make this product frustrating in the latest review,privacy concerns make this product frustrating in the latest review,Negative
+Nvidia,Negative,The hardware price is too high and support is poor,the hardware price is too high and support is poor,Negative
+Nvidia,Negative,The hardware price is too high and support is poor according to users,the hardware price is too high and support is poor according to users,Negative
+Nvidia,Negative,The hardware price is too high and support is poor in the latest review,the hardware price is too high and support is poor in the latest review,Negative
+Tesla,Negative,This release has serious bugs and unreliable results,this release has serious bugs and unreliable results,Negative
+Tesla,Negative,This release has serious bugs and unreliable results according to users,this release has serious bugs and unreliable results according to users,Negative
+Tesla,Negative,This release has serious bugs and unreliable results in the latest review,this release has serious bugs and unreliable results in the latest review,Negative
+OpenAI,Neutral,The company announced a model update today,the company announced a model update today,Neutral
+OpenAI,Neutral,The company announced a model update today according to users,the company announced a model update today according to users,Neutral
+OpenAI,Neutral,The company announced a model update today in the latest review,the company announced a model update today in the latest review,Neutral
+Microsoft,Neutral,The software is available for Windows users,the software is available for windows users,Neutral
+Microsoft,Neutral,The software is available for Windows users according to users,the software is available for windows users according to users,Neutral
+Microsoft,Neutral,The software is available for Windows users in the latest review,the software is available for windows users in the latest review,Neutral
+Google,Neutral,The event starts at ten o clock tomorrow,the event starts at ten o clock tomorrow,Neutral
+Google,Neutral,The event starts at ten o clock tomorrow according to users,the event starts at ten o clock tomorrow according to users,Neutral
+Google,Neutral,The event starts at ten o clock tomorrow in the latest review,the event starts at ten o clock tomorrow in the latest review,Neutral
+Nvidia,Neutral,The product specification lists sixteen gigabytes,the product specification lists sixteen gigabytes,Neutral
+Nvidia,Neutral,The product specification lists sixteen gigabytes according to users,the product specification lists sixteen gigabytes according to users,Neutral
+Nvidia,Neutral,The product specification lists sixteen gigabytes in the latest review,the product specification lists sixteen gigabytes in the latest review,Neutral
+Tesla,Neutral,The team published a technical documentation page,the team published a technical documentation page,Neutral
+Tesla,Neutral,The team published a technical documentation page according to users,the team published a technical documentation page according to users,Neutral
+Tesla,Neutral,The team published a technical documentation page in the latest review,the team published a technical documentation page in the latest review,Neutral
